@@ -6,3 +6,4 @@ adding fourth line to sec_br
 adding fourth line for master
 adding fifth line to sec_br
 adding fifth line in master
+adding sixth line in master
