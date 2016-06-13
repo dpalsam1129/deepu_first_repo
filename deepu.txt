@@ -3,4 +3,6 @@ Added second line for first_br
 Added the second line in master
 added third line for first_br
 adding fourth line to sec_br
+adding fourth line for master
 adding fifth line to sec_br
+adding fifth line in master
